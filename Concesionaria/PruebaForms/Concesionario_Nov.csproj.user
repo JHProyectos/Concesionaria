@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Interfaz\Autos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\CargarOrdenDeCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\datosClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\datosProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\Informe_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\V_V_SeleccionarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\FormularioNuevoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Interfaz\VentanaVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

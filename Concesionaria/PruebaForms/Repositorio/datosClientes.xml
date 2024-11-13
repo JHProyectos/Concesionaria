@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Clientes>
+		<Nombre>Carlos</Nombre>
+		<Apellido>Gutiérrez</Apellido>
+		<CUIT>20-12345678-9</CUIT>
+		<DNI>30123456</DNI>
+		<Telefono>+54 9 11 4567-1234</Telefono>
+		<Direccion>Calle Falsa 123, Buenos Aires</Direccion>
+		<Email>carlos.gutierrez@example.com</Email>
+		<CuentaBancariaID>1234567890</CuentaBancariaID>
+		<Saldo>25400000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Ana</Nombre>
+		<Apellido>Martínez</Apellido>
+		<CUIT>27-87654321-0</CUIT>
+		<DNI>34876543</DNI>
+		<Telefono>+54 9 11 8765-4321</Telefono>
+		<Direccion>Av. Siempre Viva 456, Córdoba</Direccion>
+		<Email>ana.martinez@example.com</Email>
+		<CuentaBancariaID>2345678901</CuentaBancariaID>
+		<Saldo>17800000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Lucas</Nombre>
+		<Apellido>Pereyra</Apellido>
+		<CUIT>20-23456789-1</CUIT>
+		<DNI>31234567</DNI>
+		<Telefono>+54 9 11 5678-9012</Telefono>
+		<Direccion>Calle Los Robles 789, Mendoza</Direccion>
+		<Email>lucas.pereyra@example.com</Email>
+		<CuentaBancariaID>3456789012</CuentaBancariaID>
+		<Saldo>21500000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Valentina</Nombre>
+		<Apellido>Sánchez</Apellido>
+		<CUIT>27-34567890-2</CUIT>
+		<DNI>35987654</DNI>
+		<Telefono>+54 9 11 6789-0123</Telefono>
+		<Direccion>Pasaje del Sol 321, Rosario</Direccion>
+		<Email>valentina.sanchez@example.com</Email>
+		<CuentaBancariaID>4567890123</CuentaBancariaID>
+		<Saldo>30200000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Tomás</Nombre>
+		<Apellido>López</Apellido>
+		<CUIT>20-45678901-3</CUIT>
+		<DNI>32678901</DNI>
+		<Telefono>+54 9 11 7890-1234</Telefono>
+		<Direccion>Barrio Las Flores 654, Mar del Plata</Direccion>
+		<Email>tomas.lopez@example.com</Email>
+		<CuentaBancariaID>5678901234</CuentaBancariaID>
+		<Saldo>24500000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>María</Nombre>
+		<Apellido>Rodríguez</Apellido>
+		<CUIT>27-56789012-4</CUIT>
+		<DNI>37890123</DNI>
+		<Telefono>+54 9 11 8901-2345</Telefono>
+		<Direccion>Camino de los Pinos 987, Salta</Direccion>
+		<Email>maria.rodriguez@example.com</Email>
+		<CuentaBancariaID>6789012345</CuentaBancariaID>
+		<Saldo>28200000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Javier</Nombre>
+		<Apellido>Fernández</Apellido>
+		<CUIT>20-67890123-5</CUIT>
+		<DNI>33456789</DNI>
+		<Telefono>+54 9 11 9012-3456</Telefono>
+		<Direccion>Ruta 8 Km 123, San Juan</Direccion>
+		<Email>javier.fernandez@example.com</Email>
+		<CuentaBancariaID>7890123456</CuentaBancariaID>
+		<Saldo>31000000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Federico</Nombre>
+		<Apellido>Méndez</Apellido>
+		<CUIT>20-89012345-7</CUIT>
+		<DNI>34123456</DNI>
+		<Telefono>+54 9 11 2345-6789</Telefono>
+		<Direccion>Puerto Nuevo 213, La Plata</Direccion>
+		<Email>federico.mendez@example.com</Email>
+		<CuentaBancariaID>9012345678</CuentaBancariaID>
+		<Saldo>19600000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Camila</Nombre>
+		<Apellido>Moreno</Apellido>
+		<CUIT>27-90123456-8</CUIT>
+		<DNI>39876543</DNI>
+		<Telefono>+54 9 11 3456-7890</Telefono>
+		<Direccion>Calle Luna 789, Santa Fe</Direccion>
+		<Email>camila.moreno@example.com</Email>
+		<CuentaBancariaID>0123456789</CuentaBancariaID>
+		<Saldo>23000000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>Esteban</Nombre>
+		<Apellido>Quito</Apellido>
+		<CUIT>20-123123456-1</CUIT>
+		<DNI>123123456</DNI>
+		<Telefono>15647382</Telefono>
+		<Direccion>Carpinterias 123</Direccion>
+		<Email>equito@mail.com</Email>
+		<CuentaBancariaID>1122334450</CuentaBancariaID>
+		<Saldo>26700000</Saldo>
+	</Clientes>
+	<Clientes>
+		<Nombre>nuevo</Nombre>
+		<Apellido>cliente</Apellido>
+		<CUIT>20-123123-1</CUIT>
+		<DNI>12312435</DNI>
+		<Telefono>2345676</Telefono>
+		<Direccion>esaaaa</Direccion>
+		<Email>asd@mail.com</Email>
+		<CuentaBancariaID>230975</CuentaBancariaID>
+		<Saldo>22500000</Saldo>
+	</Clientes>
+</ArrayOfClientes>

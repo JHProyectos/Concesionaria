@@ -1,0 +1,37 @@
+<proveedores>
+    <proveedor>
+        <nombre>Juan Pérez</nombre>
+        <numero_proveedor>1001</numero_proveedor>
+        <email>juan.perez@gmail.com</email>
+        <telefono>+1-555-123-4567</telefono>
+        <saldo>25000.00</saldo>
+    </proveedor>
+    <proveedor>
+        <nombre>María López</nombre>
+        <numero_proveedor>1002</numero_proveedor>
+        <email>maria.lopez@yahoo.com</email>
+        <telefono>+1-555-234-5678</telefono>
+        <saldo>18000.00</saldo>
+    </proveedor>
+    <proveedor>
+        <nombre>Carlos Gómez</nombre>
+        <numero_proveedor>1003</numero_proveedor>
+        <email>carlos.gomez@outlook.com</email>
+        <telefono>+1-555-345-6789</telefono>
+        <saldo>32000.00</saldo>
+    </proveedor>
+    <proveedor>
+        <nombre>Ana Rodríguez</nombre>
+        <numero_proveedor>1004</numero_proveedor>
+        <email>ana.rodriguez@hotmail.com</email>
+        <telefono>+1-555-456-7890</telefono>
+        <saldo>45000.00</saldo>
+    </proveedor>
+    <proveedor>
+        <nombre>David Hernández</nombre>
+        <numero_proveedor>1005</numero_proveedor>
+        <email>david.hernandez@gmail.com</email>
+        <telefono>+1-555-567-8901</telefono>
+        <saldo>21000.00</saldo>
+    </proveedor>
+</proveedores>

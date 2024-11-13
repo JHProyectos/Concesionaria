@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Facturas>
+  <Factura>
+    <NombreCliente>Juan Pérez</NombreCliente>
+    <Producto>Televisor 55"</Producto>
+    <Costo>750.99</Costo>
+    <Fecha>2024-10-20</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente>María Gómez</NombreCliente>
+    <Producto>Smartphone</Producto>
+    <Costo>450.50</Costo>
+    <Fecha>2024-11-05</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente>Carlos Rodríguez</NombreCliente>
+    <Producto>Laptop</Producto>
+    <Costo>999.99</Costo>
+    <Fecha>2024-11-12</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente></NombreCliente>
+    <Producto>Toyota Corolla 2022 23000 24</Producto>
+    <Costo>23000</Costo>
+    <Fecha>2024-11-13T10:34:55.3780559-03:00</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente></NombreCliente>
+    <Producto>Toyota Camry (2017) - $17000</Producto>
+    <Costo>17000</Costo>
+    <Fecha>2024-11-13T10:59:18.5305163-03:00</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente></NombreCliente>
+    <Producto>Toyota Corolla (2022) - $23000</Producto>
+    <Costo>0</Costo>
+    <Fecha>2024-11-13T11:05:34.3115261-03:00</Fecha>
+  </Factura>
+  <Factura>
+    <NombreCliente></NombreCliente>
+    <Producto>Honda Civic (2023) - $24500</Producto>
+    <Costo>0</Costo>
+    <Fecha>2024-11-13T11:08:43.4015119-03:00</Fecha>
+  </Factura>
+</Facturas>

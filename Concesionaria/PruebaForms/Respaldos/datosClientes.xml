@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+    <Cliente>
+        <Nombre>Juan</Nombre>
+        <Apellido>Pérez</Apellido>
+        <Email>juan.perez@example.com</Email>
+        <Telefono>+54 9 11 1234-5678</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>María</Nombre>
+        <Apellido>Gómez</Apellido>
+        <Email>maria.gomez@example.com</Email>
+        <Telefono>+54 9 11 9876-5432</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Lucas</Nombre>
+        <Apellido>Fernández</Apellido>
+        <Email>lucas.fernandez@example.com</Email>
+        <Telefono>+54 9 11 4567-8901</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Ana</Nombre>
+        <Apellido>Martínez</Apellido>
+        <Email>ana.martinez@example.com</Email>
+        <Telefono>+54 9 11 2345-6789</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Mateo</Nombre>
+        <Apellido>Rodríguez</Apellido>
+        <Email>mateo.rodriguez@example.com</Email>
+        <Telefono>+54 9 11 8765-4321</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Lucía</Nombre>
+        <Apellido>Romero</Apellido>
+        <Email>lucia.romero@example.com</Email>
+        <Telefono>+54 9 11 6789-0123</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Santiago</Nombre>
+        <Apellido>Sosa</Apellido>
+        <Email>santiago.sosa@example.com</Email>
+        <Telefono>+54 9 11 3456-7890</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Sofía</Nombre>
+        <Apellido>Hernández</Apellido>
+        <Email>sofia.hernandez@example.com</Email>
+        <Telefono>+54 9 11 7890-1234</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Tomás</Nombre>
+        <Apellido>Lopez</Apellido>
+        <Email>tomas.lopez@example.com</Email>
+        <Telefono>+54 9 11 4321-0987</Telefono>
+    </Cliente>
+    <Cliente>
+        <Nombre>Valentina</Nombre>
+        <Apellido>Ruiz</Apellido>
+        <Email>valentina.ruiz@example.com</Email>
+        <Telefono>+54 9 11 5678-9012</Telefono>
+    </Cliente>
+</Data>

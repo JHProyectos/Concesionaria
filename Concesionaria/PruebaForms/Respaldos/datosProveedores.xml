@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+    <Proveedor>
+        <Nombre>Carlos</Nombre>
+        <Apellido>García</Apellido>
+        <Email>carlos.garcia@proveedores.com</Email>
+        <Telefono>+54 9 11 1111-2222</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Laura</Nombre>
+        <Apellido>Méndez</Apellido>
+        <Email>laura.mendez@proveedores.com</Email>
+        <Telefono>+54 9 11 3333-4444</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Ricardo</Nombre>
+        <Apellido>Salinas</Apellido>
+        <Email>ricardo.salinas@proveedores.com</Email>
+        <Telefono>+54 9 11 5555-6666</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Claudia</Nombre>
+        <Apellido>Ortiz</Apellido>
+        <Email>claudia.ortiz@proveedores.com</Email>
+        <Telefono>+54 9 11 7777-8888</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Andrés</Nombre>
+        <Apellido>Ramírez</Apellido>
+        <Email>andres.ramirez@proveedores.com</Email>
+        <Telefono>+54 9 11 9999-0000</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Paula</Nombre>
+        <Apellido>López</Apellido>
+        <Email>paula.lopez@proveedores.com</Email>
+        <Telefono>+54 9 11 1234-5678</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Fernando</Nombre>
+        <Apellido>Castro</Apellido>
+        <Email>fernando.castro@proveedores.com</Email>
+        <Telefono>+54 9 11 2345-6789</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Isabel</Nombre>
+        <Apellido>Vargas</Apellido>
+        <Email>isabel.vargas@proveedores.com</Email>
+        <Telefono>+54 9 11 3456-7890</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Javier</Nombre>
+        <Apellido>Morales</Apellido>
+        <Email>javier.morales@proveedores.com</Email>
+        <Telefono>+54 9 11 4567-8901</Telefono>
+    </Proveedor>
+    <Proveedor>
+        <Nombre>Gabriela</Nombre>
+        <Apellido>Rojas</Apellido>
+        <Email>gabriela.rojas@proveedores.com</Email>
+        <Telefono>+54 9 11 5678-9012</Telefono>
+    </Proveedor>
+</Data>

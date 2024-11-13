@@ -1,0 +1,20 @@
+<OrdenDeCompra>
+    <Oc>
+        <fecha>02-10-24</fecha>
+        <Proveedor>1003</Proveedor>
+        <Marca>Toyota</Marca>
+        <Modelo>Corolla</Modelo>
+        <Año>2022</Año>
+        <Precio>23000</Precio>
+        <Stock>8</Stock>
+    </Oc>
+    <Oc>
+        <fecha>03-10-24</fecha>
+        <Proveedor>1001</Proveedor>
+        <Marca>Toyota</Marca>
+        <Modelo>Camry</Modelo>
+        <Año>2017</Año>
+        <Precio>17000</Precio>
+        <Stock>4</Stock>
+    </Oc>
+</OrdenDeCompra>

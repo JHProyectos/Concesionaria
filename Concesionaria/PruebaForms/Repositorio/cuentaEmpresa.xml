@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CuentaEmpresa>
+	<Id>1</Id>
+	<Titular>Nombre de la Empresa</Titular>
+	<Saldo>1000000.00</Saldo>
+</CuentaEmpresa>
