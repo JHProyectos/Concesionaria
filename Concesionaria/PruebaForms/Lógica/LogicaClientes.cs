@@ -39,8 +39,6 @@ namespace PruebaForms.Lógica
             {
                 try
             {
-                //eso asegura que el directorio existe
-                Directory.CreateDirectory(archivoClientesXml);
 
                 XmlSerializer serializer = new XmlSerializer(typeof(List<Clientes>));
                 using (StreamWriter writer = new StreamWriter(archivoClientesXml))
